@@ -9,3 +9,5 @@ Acrescentei coisas portanto modificou!!!
 Já testei rm
 
 Já testei checkout
+
+Insercao no paralelo
