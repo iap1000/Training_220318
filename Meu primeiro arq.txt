@@ -5,3 +5,7 @@ rtbhrthbrt
 brtbrt
 b
 Acrescentei coisas portanto modificou!!!
+
+Já testei rm
+
+Já testei checkout
